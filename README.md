@@ -11,6 +11,8 @@ http://robandlauren.com/2013/01/11/custom-icons-in-mountain-lion-retina/
 
 ## Attribution
 
+Special thanks to [Lauren Gray](https://twitter.com/laurengray) and [Jamie Wright](http://jamiewright.net/) for their awesome icon additions!
+
 [Hammer](http://thenounproject.com/noun/hammer/#icon-No1306) used in the Xcode icon designed by [John Caserta](http://thenounproject.com/johncaserta) from The Noun Project.
 
 [Key](https://github.com/somerandomdude/Iconic/blob/master/vector/optimized/key_fill.svg) used in the 1Password icon designed by P.J. Onori from his [Iconic repo](https://github.com/somerandomdude/Iconic).
